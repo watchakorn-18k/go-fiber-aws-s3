@@ -8,7 +8,7 @@ import (
 
 func NewFiberConfiguration() fiber.Config {
 	return fiber.Config{
-		AppName:     ")϶ go-fiber-template ϵ(",
+		AppName:     ")϶ go-fiber-aws-s3 ϵ(",
 		JSONEncoder: json.Marshal,
 		JSONDecoder: json.Unmarshal,
 	}

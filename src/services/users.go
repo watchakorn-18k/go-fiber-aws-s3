@@ -1,10 +1,10 @@
 package services
 
 import (
-	"go-fiber-template/domain/entities"
-	"go-fiber-template/domain/repositories"
-	"go-fiber-template/httpclient"
-	"go-fiber-template/src/utils"
+	"go-fiber-aws-s3/domain/entities"
+	"go-fiber-aws-s3/domain/repositories"
+	"go-fiber-aws-s3/httpclient"
+	"go-fiber-aws-s3/src/utils"
 	"mime/multipart"
 	"time"
 )

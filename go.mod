@@ -1,4 +1,4 @@
-module go-fiber-template
+module go-fiber-aws-s3
 
 go 1.22.1
 
@@ -8,7 +8,6 @@ require (
 	github.com/gofiber/contrib/jwt v1.0.8
 	github.com/gofiber/fiber/v2 v2.51.0
 	github.com/golang-jwt/jwt/v5 v5.2.0
-	github.com/joho/godotenv v1.3.0
 	go.elastic.co/apm/module/apmmongo v1.15.0
 	go.mongodb.org/mongo-driver v1.13.0
 )
